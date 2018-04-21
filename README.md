@@ -9,6 +9,16 @@ Learning C++ from zero to one
 
 # Reference
 
+[The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+
+
+
+## API
+
+[cplusplus](http://www.cplusplus.com/)
+
+
+
 ## 入门
 
 [awesome-cpp](https://github.com/fffaraz/awesome-cpp): 最全的 C++ 资料(英语版)
