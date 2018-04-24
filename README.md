@@ -31,6 +31,11 @@ Learning C++ from zero to one
 
 [C++教程|菜鸟教程](http://www.runoob.com/cplusplus/cpp-tutorial.html)
 
+**视频教程**
+
+- [侯捷 手把手教学C++(上)](https://www.bilibili.com/video/av19038490?from=search&seid=9691875462994470958)   **在学ing**
+- [侯捷 手把手教学C++(下)](https://www.bilibili.com/video/av19151507?from=search&seid=9691875462994470958)
+
 
 
 ## 进阶
